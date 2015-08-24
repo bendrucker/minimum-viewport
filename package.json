@@ -1,7 +1,7 @@
 {
   "name": "minimum-viewport",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check whether the viewport is at least a certain size",
   "license": "MIT",
   "repository": "bendrucker/minimum-viewport",
