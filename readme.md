@@ -1,4 +1,4 @@
-# minimum-viewport [![Build Status](https://travis-ci.org/bendrucker/minimum-viewport.svg?branch=master)](https://travis-ci.org/bendrucker/minimum-viewport)
+# minimum-viewport [![Build Status](https://travis-ci.org/bendrucker/minimum-viewport.svg?branch=master)](https://travis-ci.org/bendrucker/minimum-viewport) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/minimum-viewport.svg)](https://greenkeeper.io/)
 
 > Check whether the viewport is at least a certain size
 
